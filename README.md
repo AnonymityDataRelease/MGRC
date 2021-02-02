@@ -1,15 +1,9 @@
-# MSRC -- Multi-stage Reading Comprehension
-This repo is for our paper MSRC:A Multi-Stage Reading Comprehension Model for Question Answering
-
+# MGRC: An End-to-End Multi-Granularity Reading Comprehension Model for Question Answering
 
 
 # Train and Eval
 
-Codes are based on huggingface framerwork.
-
-
-
- python run_msrc.py \
+python run_msrc.py \
     --model_type bert \
     --model_name_or_path bert-large-uncased \
     --do_train \
