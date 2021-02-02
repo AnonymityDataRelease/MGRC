@@ -27,5 +27,5 @@ python run_msrc.py \
 # Files
 1. utils_q_type.py: used to label the question type.
 2. run_msrc.py and utils_msrc.py: used train and eval MSRC model.
-3. mymodel.py: the designed MSRC model.
+3. mymodel.py: the designed MGRC model.
 
