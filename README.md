@@ -3,7 +3,7 @@
 
 Code for the paper "MGRC: An End-to-End Multi-Granularity Reading Comprehension Model for Question Answering" (sumbitted to TNNLS)
 
-**Note:** Our code is based on the [huggingface](https://github.com/huggingface/transformers). More examples are available [here](https://github.com/huggingface/transformers/tree/master/examples/question-answering). 
+**Note:** Our code is based on the [huggingface](https://github.com/huggingface/transformers). You can install transformer following the instruction of huggingface. More examples are available [here](https://github.com/huggingface/transformers/tree/master/examples/question-answering). 
 
 This example code fine-tunes BERT on the SQuAD2.0 dataset.
 ```
